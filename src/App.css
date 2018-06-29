@@ -1,0 +1,123 @@
+
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 80px;
+}
+
+.App-header {
+  background-color: #222;
+  height: 150px;
+  padding: 20px;
+  color: white;
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+
+.bg-black1 {
+  background-color: #2ca8ea;
+}
+.showdetail {
+  text-align: center;
+}
+
+.bg-black1 {
+  background-color: #0c3348;
+}
+small.f6.db.tc {
+  color: white;
+  padding-top: 20px;
+}
+.tc.mt3 a {
+  color: white;
+}
+
+form.ui.form {
+  width: 30%;
+  margin: 20px auto;
+}
+
+form.ui.form h1 {
+  text-align: center;
+}
+.buttonform {
+    text-align: center;
+}
+.buttonform.addnews {
+  margin-top: 27px;
+}
+.buttonform.register {
+  margin-top: 30px;
+}
+h2.titledetail {
+  margin: 30px;
+}
+.min-height{
+  min-height: 77vh;
+}
+/* p.detail {
+  margin-top: 50px;
+} */
+.btn-login{
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+}
+form.ui.form {
+  width: 300px;
+  margin: 20px auto;
+  /* margin-top: 2%; */
+}
+.btn-register {
+  display: inline-flex;
+  margin-top: 20px;
+}
+.button-Dashboard {
+  float: right;
+}
+h2.baskerville.fw1.ph3.ph0-l {
+  margin-top: 27px;
+}
+form.ui.large.form.login {
+  padding: 20px;
+  background: #e7e7e7;
+}
+.ui.form.login {
+  padding-top: 5%;
+}
+.modal-dialog {
+ 
+          width: 360px;
+ 
+        }
+ 
+.modal-header {
+ 
+    background-color: #337AB7;
+ 
+    padding:16px 16px;
+ 
+    color:#FFF;
+ 
+    border-bottom:2px dashed #337AB7;
+ 
+ }
+ .styles_modal__gNwvD {
+  min-width: 408px;
+}
